@@ -23,7 +23,7 @@
 ---  
   
 ## 🌟 **Projects**  
-🧠 **IQ Test App** – [Try it out!](https://iq-test-online-mini-project-jmxb.vercel.app/)  
+🧠 ** ** – 
   
 ---  
   
