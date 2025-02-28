@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Arshad-0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hey there, I’m Arshad Shaikh!
+🚀 Passionate Coder | Tech Explorer | Problem Solver
+👀 I love coding, exploring new technologies, and building impactful projects that make a difference.
+🌱 Currently diving deep into JavaScript frameworks and backend development to sharpen my skills.
+💡 Always on the lookout for collaborations on open-source projects and innovative web & mobile applications.
 
-<!---
-Arshad-0/Arshad-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Let’s Connect!
+📧 Email: arshdshaikh53770@gmail.com
+💼 LinkedIn: Arshad Ahemad Shaikh
+
+💻 Tech Stack
+🖥 Languages: Java, Python, JavaScript, PHP
+⚙ Frameworks: Spring, Hibernate, React
+📊 Databases: MySQL
+🛠 Tools: Git, VS Code
+
+🌟 Projects
+🧠 IQ Test App – Try it out!
+
+😄 Fun Fact: I’m always up for learning something new—even if it’s not solving Rubik’s cubes!
+
+🚀 Let’s build something amazing together!
+
