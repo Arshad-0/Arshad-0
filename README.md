@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Arshad Shaikh</h1>
-<h3 align="center">Aspiring Full‑Stack Developer • Problem Solver • Web Creator 🚀</h3>
+<h1 align="center">✨ Hey there! I'm Arshad — A Code-Crafter, Web Builder & Future Tech Leader 🚀</h1>
+<h3 align="center">Creating powerful web solutions using Java, Python, PHP, Node.js, and SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Learning+New+Tech+Everyday;Love+to+Code+%26+Build;Let's+Connect!+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+interactive+apps;Full-Stack+Explorer+%7C+Backend+Lover;Let's+Build+Something+Awesome+Together+💡" alt="Typing SVG" />
 </p>
 
 ---
