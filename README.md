@@ -1,19 +1,19 @@
-<h1 align="center">👋 Hello, I'm Arshad Shaikh</h1>
-<h3 align="center">🚀 Full‑Stack Enthusiast | Problem Solver | Web Explorer</h3>
+<h1 align="center">🚀 Hey there! I'm Arshad Shaikh</h1>
+<h3 align="center">Full‑Stack Enthusiast • Backend Explorer • Tech Voyager 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Collaborate.;Building+Real+Projects+Daily!;Always+Learning+Something+New;Let’s+Grow+Together!+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Coding+Solutions+Every+Day;Building+Robust+Backends+%26+Creative+Frontends;Adding+Value+Through+Code;Let’s+Connect+and+Collaborate+🤝" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-* 💡 Curious mind diving into **Java**, **Python**, **PHP**, **Node.js**, and **Web Development**
-* 🔧 Hands-on with **DSA**, backend logic, and full-stack applications
-* 📌 Dedicated to turning ideas into functional, creative code
-* 💬 Let’s collaborate and innovate through **open-source projects**
-* 📬 Reach out anytime: **[arshdshaikh53770@gmail.com](mailto:arshdshaikh53770@gmail.com)**
+- 👨‍💻 Exploring **Java**, **Python**, **PHP**, **Node.js**, and web development
+- 🧩 Passionate about solving problems with **DSA** and real-world projects
+- 🌐 Building APIs, server logic, and dynamic user experiences
+- 🎯 Continually learning and sharing through code and collaboration
+- 📫 You can reach me at **[arshdshaikh53770@gmail.com](mailto:arshdshaikh53770@gmail.com)**
 
 ---
 
@@ -37,16 +37,16 @@
 
 ## 🚀 Featured Projects
 
-| 🛠️ Project                    | 🔎 Description                         | 🔗 Link                                                                         |
-| ------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------- |
-| 📘 DSA Notes                   | Simple & effective notes for beginners | [View](https://github.com/Arshad-0/DSA-Notes-)                                  |
-| 🏥 Hospital Appointment System | Book, manage & track appointments      | [Live Demo](https://project-hospital-appointment-management-system.vercel.app/) |
-| 🔐 Cryptography Toolkit        | Learn classical ciphers practically    | [View](https://github.com/Arshad-0/Cryptography_Problems)                       |
-| 🕒 Digital Clock               | Real-time stylish clock using JS       | [View](https://github.com/Arshad-0/Digital-Clock-1)                             |
+| 🔧 Project                          | 🔎 Description                                     | 🔗 Link |
+|-----------------------------------|--------------------------------------------------|--------|
+| 📘 **DSA Notes**                   | Beginner-friendly structured notes on Data Structures | [View](https://github.com/Arshad-0/DSA-Notes-) |
+| 🏥 **Hospital Appointment System** | Full-stack app to manage hospital appointments   | [Live Demo](https://project-hospital-appointment-management-system.vercel.app/) |
+| 🔐 **Cryptography Toolkit**        | Practical implementation of classical ciphers    | [View](https://github.com/Arshad-0/Cryptography_Problems) |
+| 🕒 **Digital Clock**              | Stylish real-time digital clock using JavaScript | [View](https://github.com/Arshad-0/Digital-Clock-1) |
 
 ---
 
-## 📈 My GitHub Journey
+## 📈 GitHub & Activity Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arshad-0&show_icons=true&theme=tokyonight" height="160px" />
@@ -55,15 +55,31 @@
 
 ---
 
-## 🔨 Work in Progress
+## 🏅 Achievements & Certifications
 
-* 🧠 **IQ Test App** – Improving UI/UX features
-* 📘 **Java Interview Notes** – Enhancing structure
-* 🗳️ **Voting System** – Soon to go live!
+- 🎓 **Oracle Certified Professional, Java SE 11 Developer**
+- 🛠️ **Programming with Python Certificate** — [HackerRank](https://www.hackerrank.com/certificates/xxxxxx)
+- 🧠 **Data Structures & Algorithms** Course — [Coursera](https://www.coursera.org/account/accomplishments/xxxxxx)
+- 📜 **SQL and Database Foundations** — [Udacity](https://confirm.udacity.com/xxxxxx)
 
 ---
 
-## 🌐 Let’s Connect & Collaborate
+## 🛠 Work In Progress
+
+- 🧩 **IQ Test App** – Building interactive user-friendly design
+- 📘 **Java Interview Q&A** – Refining content and formatting
+- 🗳️ **Online Voting System** – Backend architecture & UI (coming soon)
+
+---
+
+## 🌐 Portfolio & Blog
+
+Explore my portfolio for live demos, project breakdowns, and insights:  
+👉 **[arshadshaikh.dev](https://arshadshaikh.dev)**
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:arshdshaikh53770@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -73,5 +89,5 @@
 
 ---
 
-> 🔑 *“Keep learning. Keep building. Your future is coded by your present.”*
-> 🌟 Don’t forget to **star** your favorite repositories!
+> 🔑 “Keep learning. Keep building. Your future is coded by your present.”  
+> 🌟 If you find value here, feel free to ⭐ my repos and connect!
