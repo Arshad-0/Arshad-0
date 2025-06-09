@@ -18,24 +18,6 @@
 
 ---
 
-## ⚒️ Tech Toolbox
-
-```text
-💻 Programming:
-Java | Python | JavaScript | PHP | C++
-
-🧱 Backend:
-Node.js | Express | PHP | REST APIs | MVC
-
-🌐 Frontend:
-HTML5 | CSS3 | JavaScript | React.js | Bootstrap | Tailwind CSS
-
-🗄️ Database:
-MySQL | MongoDB | SQL | Firebase (basic)
-
-🧪 Dev Tools:
-Git | GitHub | VS Code | Postman | Vercel | Netlify | Figma
-````
 
 ---
 
@@ -51,6 +33,24 @@ Git | GitHub | VS Code | Postman | Vercel | Netlify | Figma
 </p>
 
 ---
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ## 🚀 Highlighted Projects
 
@@ -61,16 +61,6 @@ Git | GitHub | VS Code | Postman | Vercel | Netlify | Figma
 | 🔐 Cryptography Toolkit        | Implementing Caesar, Vigenère, and Playfair ciphers       | [Repo](https://github.com/Arshad-0/Cryptography_Problems)                       |
 | ⏰ Digital Clock                | Creative real-time JS-based clock                         | [Repo](https://github.com/Arshad-0/Digital-Clock-1)                             |
 | 🧠 IQ Test Platform            | User-focused quiz system with scoring *(Coming Soon)*     | [Repo](#)                                                                       |
-
----
-
-## 🏅 Certifications & Learning
-
-* ✅ **Java SE 11 Developer** – Oracle (OCP)
-* 🐍 **Python (Basic)** – HackerRank
-* 📘 **DSA Specialization** – Coursera
-* 🛢 **SQL & Relational DBs** – Udacity
-* ✍️ **Git & GitHub** – Great Learning
 
 ---
 
